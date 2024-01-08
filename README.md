@@ -1,4 +1,6 @@
-JavaScript Projects Repository
+
+
+#JavaScript Projects Repository#
 Welcome to my JavaScript Projects repository! Here, you'll find a collection of 50 JavaScript projects demonstrating the versatility, power, and practical application of JavaScript in web development.
 
 Importance of JavaScript
